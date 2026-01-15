@@ -1,0 +1,14 @@
+/.venv/
+.idea
+bonus
+Code_Exercise
+files
+journal
+experiments
+EE1.py
+EE2.py
+EE3.py
+EE4.py
+test.py
+output.zip
+weather.csv
